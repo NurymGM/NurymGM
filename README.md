@@ -8,10 +8,7 @@ Welcome to my GitHub profile!
 - 🎓 I'm a senior student at Nazarbayev University
 - 🌱 Currently diving deep into Backend Development with Go
 
-## 🚀 Tech Stack
-
-<img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*NCKH5j7mncvMVBcR.gif" width="400"/>
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+<img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*NCKH5j7mncvMVBcR.gif" width="300"/>
 
 ## 📫 Contact Me
 

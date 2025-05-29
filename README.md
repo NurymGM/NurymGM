@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 Tech Stack
 
-![Golang]([https://img.shields.io/badge/-Golang-3178C6?logo=go&logoColor=white&style=for-the-badge](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*NCKH5j7mncvMVBcR.gif))
+![Cool GIF](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*NCKH5j7mncvMVBcR.gif)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 
 ## 📫 Contact Me

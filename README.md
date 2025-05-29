@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 Tech Stack
 
-![Cool GIF](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*NCKH5j7mncvMVBcR.gif)
+<img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*NCKH5j7mncvMVBcR.gif" width="400"/>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 
 ## 📫 Contact Me

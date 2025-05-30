@@ -3,8 +3,6 @@
 # Hi there, I'm Nurym 👋  
 # Backend Developer | Golang
 
-## 👨‍💻 About Me
-
 🎓 I'm a Senior Computer Science Student at Nazarbayev University  
 🌱 Currently diving deep into Backend Development with Go
 

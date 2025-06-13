@@ -10,6 +10,7 @@
 
 ## 📫 Contact Me
 
+💬 Telegram: [@Nurymw](https://t.me/Nurymw)  
 📧 Email: [nurymw.a@gmail.com](mailto:nurymw.a@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/nurym-alibekov](https://www.linkedin.com/in/nurym-alibekov)
 

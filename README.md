@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Nurym 👋  
+# Hi, I'm Nurym 👋  
 # Backend Developer | Golang
 
 🎓 I'm a Senior Computer Science Student at Nazarbayev University  
